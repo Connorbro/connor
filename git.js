@@ -1,1 +1,3 @@
-console.log("My name is Connor")
+let name = "Connor"
+
+console.log(`My name is ${name}`)
